@@ -1,0 +1,11 @@
+#SecurityDomains
+There are various ways to setup a security organisation. One way would be setup following deparments/domains 
+Operations or Run Domains:
+  Identity and Access Management
+  Data Security 
+  Application Security 
+  Infrastructure and Network Security 
+  Threat Management (Threat Hunting and Reasearch) 
+  SOC 
+  Governance, Risk and Compliance
+Build or Change Functions: Program Management for each of about Domains
